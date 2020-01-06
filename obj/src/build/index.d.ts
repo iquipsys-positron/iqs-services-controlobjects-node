@@ -1,0 +1,1 @@
+export { ControlObjectsServiceFactory } from './ControlObjectsServiceFactory';
